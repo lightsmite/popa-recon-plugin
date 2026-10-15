@@ -1,0 +1,12 @@
+{
+  "name": "popa-recon",
+  "version": "1.0.0",
+  "description": "POPA Recon researches public web3 projects, protocols, tokens, wallets, transactions and market events and returns factual answers with cited sources. No investment advice, trades or transfers.",
+  "author": {
+    "name": "POPA Recon"
+  },
+  "homepage": "https://poparecon.com",
+  "repository": "https://github.com/lightsmite/popa-recon-plugin",
+  "keywords": ["research", "web3", "protocols"],
+  "logo": "assets/logo.png"
+}
